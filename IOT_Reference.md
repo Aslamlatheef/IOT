@@ -1,17 +1,39 @@
 # IOT
 ![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/1-IoT-Ecosystem_CompTIA-2.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-![alt text](https://github.com/Aslamlatheef/IOT/images/*.jpg)
-
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/4_stage_iot_solutions_architecture_0.jpeg)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/Industrial_IoT_Infographic.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/IoT-Ecosystem-16.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/Screen-Shot-2017-03-05-at-8.03.59-PM.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/beecham_research.jpg)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/br-internet-of-things-ecosystem.jpg)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/communication_technologies.jpeg)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/internet-of-things-comparison-chart.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/iot-protocols.jpg)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/iot-solution-en.jpg)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/osmosis-iot.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/screen-shot-2014-02-04-at-10-51-33-am.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/snap-2014-04-06-at-21-19-31.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/snap-2014-04-06-at-21-19-31.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/tableforrowearticle.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/xMQTT-speed-table.png.pagespeed.ic.YNHl6LFo48.png)
+ref
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/Images/yole-2-1.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------
 this is repository that i maintianing for keep my work for public access and also i can also refer when ever i need
