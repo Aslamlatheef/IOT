@@ -1,5 +1,5 @@
 # IOT
-![alt text](https://github.com/Aslamlatheef/IOT/blob/master/1-IoT-Ecosystem_CompTIA-2.jpg)
+![alt text](https://github.com/Aslamlatheef/IOT/blob/master/*)
 
 -----------------------------------------------------------------------------------------------------------------------
 this is repository that i maintianing for keep my work for public access and also i can also refer when ever i need
